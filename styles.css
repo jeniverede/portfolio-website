@@ -101,6 +101,15 @@ button:focus,
   margin: 20px;
 }
 
+div.container {
+  text-align: center;
+}
+
+div.space {
+  width: auto;
+  height: 500px;
+}
+
 .form {
   margin: 20px;
 }
@@ -199,10 +208,6 @@ h4 {
 
 .table {
   margin: 20px;
-}
-
-div.container {
-  text-align: center;
 }
 
 ul.interests {
