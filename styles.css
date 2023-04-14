@@ -8,7 +8,6 @@ background-color (Old Lace): #fcf5e8;
 :root {
   --background-color: #fcf5e8;
   --text-color: #2b2b2b;
-  --font-family: Playfair Display;
 }
 
 * {
@@ -49,7 +48,7 @@ body {
 }
 
 body {
-  font-family: var(--font-family);
+  font-family: Fairplay Display;
   font-weight: 400;
   font-size: 16px;
 
