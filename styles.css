@@ -154,11 +154,13 @@ h4 {
 }
 
 .navigation-list__item--active {
+  font-weight: 700;
   text-decoration: none;
 }
 
 .navigation-list {
   list-style-type: none;
+  font-weight: 700;
 }
 
 .navigation-list li {
