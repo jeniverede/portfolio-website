@@ -159,6 +159,7 @@ h3 {
   font-size: 18px;
   font-weight: 600;
   color: var(--color);
+  text-decoration: underline;
 }
 
 h4 {
