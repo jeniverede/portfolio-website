@@ -146,33 +146,33 @@ h1 {
   font-size: 30px;
   font-weight: 600;
   margin: 20px;
-  font color: var(--color);
+  font-style: var(--color);
 }
 
 h2 {
   font-size: 24px;
   font-weight: 600;
-  font color: var(--color);
+  font-style: var(--color);
 }
 
 h3 {
   font-size: 18px;
   font-weight: 500;
-  font-color: var(--secondary-color);
+  font-style: var(--secondary-color);
   text-decoration: none;
 }
 
 h3 {
   font-size: 18px;
   font-weight: 600;
-  font color: var(--color);
+  font-style: var(--color);
   text-decoration: underline;
 }
 
 h4 {
   font-size: 16px;
   font-weight: 500;
-  font color: var(--color);
+  font-style: var(--color);
 }
 
 .navigation-list__item--active {
