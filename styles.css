@@ -158,8 +158,6 @@ h2 {
 h3 {
   font-size: 18px;
   font-weight: 500;
-  font-style: var(--secondary-color);
-  text-decoration: none;
 }
 
 h4 {
