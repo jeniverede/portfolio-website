@@ -152,7 +152,6 @@ h1 {
 h2 {
   font-size: 24px;
   font-weight: 600;
-  font-style: var(--color);
 }
 
 h3 {
@@ -203,6 +202,11 @@ h4 {
 .page-header__item:last-child {
   flex-grow: 1;
   text-align: right;
+}
+
+.presentation {
+  font-size: 24px;
+  font-weight: 600;
 }
 
 .profile {
