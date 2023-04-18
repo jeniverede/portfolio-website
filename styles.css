@@ -17,24 +17,31 @@ background-color (Old Lace): #fffffe;
   box-sizing: border-box;
 }
 
+/* text link styling */
+
 a {
   color: #800080;
 }
 
+/* visited link */
+
 .a:visited {
-  /* visited link */
   color: #7f00ff;
 }
 
+/* No underlining when hovering over a link */
+
 a:hover a:focus {
-  /* No underlining when hovering over a link */
   text-decoration: none;
 }
 
+/* selected link */
+
 a:active {
-  /* selected link */
   color: #bdb5d5;
 }
+
+/* About page - image & text */
 
 .about {
   display: flex;
@@ -45,21 +52,21 @@ a:active {
   min-height: 100vh;
 }
 
+/* Body - all pages */
+
 body {
   background-color: var(--background-color);
   color: var(--text-color);
 }
+
+/* Body font styling */
 
 body {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.2rem;
-
-  /* Sets the font size to 16px */
   line-height: 1.6;
-
-  /* Sets the line-height to 1.6 */
 }
 
 .button,
@@ -102,6 +109,8 @@ button:focus,
   opacity: 0.8;
 }
 
+/* Contact page - form */
+
 .contact {
   display: flex;
   flex-direction: column;
@@ -128,6 +137,8 @@ div.container {
 }
 
 /* end grid fallback */
+
+/* Work page - project grid*/
 
 .grid {
   display: grid;
