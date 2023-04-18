@@ -158,14 +158,14 @@ div.container {
 /* Text styling - all pages */
 
 h1 {
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 600;
   margin: 20px;
   font-style: var(--color);
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 600;
 }
 
