@@ -170,6 +170,11 @@ h4 {
   font-weight: 700;
 }
 
+.navigation-list__item {
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .navigation-list__item--active {
   font-weight: 700;
   text-decoration: none;
