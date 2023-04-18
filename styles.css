@@ -3,11 +3,11 @@ Colors used
 
 color (Dark Gray): #2b2b2b;
 secondary-color: #800080;
-background-color (Old Lace): #fcf5e8;
+background-color (Old Lace): #fffffe;
  */
 
 :root {
-  --background-color: #fcf5e8;
+  --background-color: #fffffe;
   --color: #2b2b2b;
   --secondary-color: #800080;
   --font-family: PlayfairDisplay;
