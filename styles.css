@@ -172,7 +172,7 @@ h4 {
 
 .navigation-list__item {
   font-weight: 700;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .navigation-list__item--active {
