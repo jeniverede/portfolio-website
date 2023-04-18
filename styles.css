@@ -224,6 +224,7 @@ h4 {
 
 .table {
   margin: 40px;
+  border-spacing: 20px;
 }
 
 ul.interests {
