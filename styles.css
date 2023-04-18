@@ -153,10 +153,11 @@ div.container {
   width: auto;
   min-height: auto;
   text-align: left;
-  padding: 10px;
+  padding: 20px;
   border-style: solid;
   border-color: #2b2b2b;
-  border-width: 1px;
+  border-width: 2px;
+  border-radius: 10px;
 }
 
 /* Text styling - all pages */
