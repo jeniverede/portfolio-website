@@ -153,6 +153,9 @@ div.container {
   width: auto;
   min-height: auto;
   text-align: left;
+  border-style: solid;
+  border-color: #2b2b2b;
+  border-width: 1px;
 }
 
 /* Text styling - all pages */
