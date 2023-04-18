@@ -165,14 +165,14 @@ h4 {
   font-style: var(--color);
 }
 
-.navigation-list__item--active {
-  font-weight: 700;
-  text-decoration: none;
-}
-
 .navigation-list {
   list-style-type: none;
   font-weight: 700;
+}
+
+.navigation-list__item--active {
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .navigation-list li {
@@ -202,11 +202,6 @@ h4 {
 .page-header__item:last-child {
   flex-grow: 1;
   text-align: right;
-}
-
-.presentation {
-  font-size: 24px;
-  font-weight: 600;
 }
 
 .profile {
