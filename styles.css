@@ -128,6 +128,7 @@ button:focus,
 
 div.container {
   text-align: center;
+  background-color: #e3dccf;
 }
 
 /* start grid fallback */
