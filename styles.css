@@ -150,8 +150,8 @@ div.container {
 
 .grid__item {
   background-color: var(--background-color);
-  width: auto;
-  min-height: auto;
+  width: 400;
+  min-height: 500;
   text-align: left;
   padding: 20px;
   border-style: solid;
